@@ -1,3 +1,37 @@
+# Memoteca 💭 | Learning Angular 14
+
+A place to keep your thoughts and favorite quotes.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Memoteca**
+| :label: Tecnologias | Angular
+| :rocket: URL         | 
+| :fire: Curso     | https://www.alura.com.br/curso-online-angular-explorando-framework
+
+![](https://user-images.githubusercontent.com/19349339/199507846-20774e82-6e0d-46ff-ac2d-608e09ba0ce1.png#vitrinedev)
+
+## Project Details
+
+This project was developed in order to learn the basics of Angular 14. It has two pages: one to create a thought/quote and another to list all thoughts/quotes saved, which can also be edited and removed. Data is stored in a local JSON Server.
+
+Pages are in English, but the code and comments are in Portuguese.
+
+## Credits
+
+This project was developed in the [Angular 14 course](https://www.alura.com.br/curso-online-angular-explorando-framework) from [Alura](https://www.alura.com.br).
+
+**Instructor**: 
+- **[Nayanne Batista](https://www.linkedin.com/in/nayannebatista/)**
+
+# How to run this project
+This project was created using ... JSON server was created using ...
+
+After cloning/downloading the code, ...:
+
+# What I've learned
+...
+
 # Memoteca
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
