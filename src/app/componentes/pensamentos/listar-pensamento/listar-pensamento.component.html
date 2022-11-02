@@ -1,7 +1,7 @@
 <section class="container">
     <header class="header d-flex">
-        <h2 class="ff-inter">Meu Mural</h2>
-        <button routerLink="/criarPensamento" class="botao">Adicionar pensamento</button>
+        <h2 class="ff-inter">My Mural</h2>
+        <button routerLink="/criarPensamento" class="botao">Add a new thought/quote</button>
     </header>
     <div class="mural" *ngIf="listaPensamentos.length > 0, else semPensamentos">
         <div *ngFor="let umPensamento of listaPensamentos">
@@ -12,6 +12,6 @@
 <!-- ng-template não aparece por padrão, a não ser que você instrua o Angular para mostrá-lo (neste caso, pela cláusula else na div.mural) -->
 <ng-template #semPensamentos>
     <div class="ff-inter sem-pensamentos">
-        <p>Ainda não há pensamentos cadastrados!</p>
+        <p>No thoughts/quotes saved yet!</p>
     </div>
 </ng-template>

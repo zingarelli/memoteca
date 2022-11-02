@@ -47,7 +47,8 @@
 
 .container-radio {
     display: flex;
-    gap: 2.5rem;
+    justify-content: center;
+    gap: 4rem;
     flex-wrap: wrap;
 }
 

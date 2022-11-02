@@ -51,8 +51,9 @@
 
 .container-radio {
   display: flex;
-  gap: 2.5rem;
+  gap: 4rem;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .modelos {
