@@ -28,7 +28,7 @@ export class CriarPensamentoComponent implements OnInit {
 
   criarPensamento() {
     this.service.criar(this.pensamento).subscribe( () => {
-      alert('Pensamento adicionado!');
+      alert('Item saved!');
       this.router.navigate(['/listarPensamento']);
     });
   }
