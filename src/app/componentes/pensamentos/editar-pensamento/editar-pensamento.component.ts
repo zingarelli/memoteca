@@ -38,7 +38,7 @@ export class EditarPensamentoComponent implements OnInit {
     // se o pensamento foi encontrado na base
     if(this.pensamento.id){
       this.service.editar(this.pensamento).subscribe(() => {
-        alert('Pensamento editado com sucesso!')
+        alert('Item successfully edited!')
         this.router.navigate(['/listarPensamento']);
       })
     }
