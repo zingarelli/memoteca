@@ -25,15 +25,15 @@ Pages are in English, but the code and comments are in Portuguese.
 
 ### Adding a new item
 
-![gif showing the process of adding a new quote/thought](https://user-images.githubusercontent.com/19349339/208193638-bcb495ed-b645-4392-8808-f2d8daef050b.gif)
+![gif showing the process of adding a new quote/thought](https://user-images.githubusercontent.com/19349339/208194956-67458849-20ce-40b4-9267-8f8811a54064.gif)
 
 ### Editing an item
 
-![gif showing the process of editing a quote/thought](https://user-images.githubusercontent.com/19349339/208193751-0f11e3fb-f548-4fea-bea3-3916c5650595.gif)
+![gif showing the process of editing a quote/thought](https://user-images.githubusercontent.com/19349339/208195027-20bce146-4fa2-4561-9ed0-236e34006186.gif)
 
 ### Deleting an item
 
-![gif showing the process of deleting a quote/thought](https://user-images.githubusercontent.com/19349339/208193813-b2c7618c-1652-4562-ae29-8131e381f65a.gif)
+![gif showing the process of deleting a quote/thought](https://user-images.githubusercontent.com/19349339/208195018-3e074385-5d36-4395-9dc8-877c72073078.gif)
 
 ## Credits
 
@@ -112,15 +112,15 @@ As páginas estão em inglês, mas o código e os comentários estão em portugu
 
 ### Adicionando um novo item
 
-![gif mostrando o processo de adicionar um novo item](https://user-images.githubusercontent.com/19349339/208193638-bcb495ed-b645-4392-8808-f2d8daef050b.gif)
+![gif mostrando o processo de adicionar um novo item](https://user-images.githubusercontent.com/19349339/208194956-67458849-20ce-40b4-9267-8f8811a54064.gif)
 
 ### Editando um item
 
-![gif mostrando o processo de editar um item](https://user-images.githubusercontent.com/19349339/208193751-0f11e3fb-f548-4fea-bea3-3916c5650595.gif)
+![gif mostrando o processo de editar um item](https://user-images.githubusercontent.com/19349339/208195027-20bce146-4fa2-4561-9ed0-236e34006186.gif)
 
 ### Apagando um item
 
-![gif mostrando o processo de apagar um item](https://user-images.githubusercontent.com/19349339/208193813-b2c7618c-1652-4562-ae29-8131e381f65a.gif)
+![gif mostrando o processo de apagar um item](https://user-images.githubusercontent.com/19349339/208195018-3e074385-5d36-4395-9dc8-877c72073078.gif)
 
 ## Créditos
 
